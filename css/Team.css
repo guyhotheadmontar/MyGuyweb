@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(29, 29, 29);
+    color:white;
+    text-align: left;
+}
+a:link, a:visited {
+  background-color:#FF8C0A;
+  color: rgb(0, 0, 0);
+  padding: 9px 15px;
+  text-decoration: none;
+  display:block;
+  font-size: 30px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+a:hover, a:active {
+  background-color: rgb(61, 59, 56);
+  
+  color: rgb(255, 255, 255);
+  
+}
+#img1{
+  padding: 20px 20px;
+  margin:  20px  ;
+}
+#h1tt{
+  color: rgb(0, 0, 0);
+}
+
+
